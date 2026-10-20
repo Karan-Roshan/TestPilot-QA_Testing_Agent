@@ -147,33 +147,35 @@ TestPilot is instructed to:
 The following screenshots demonstrate the TestPilot workflow, from providing
 input details to interacting with the agent and receiving QA analysis results.
 
-<table>
-  <tr>
-    <th align="center">1. Input Details</th>
-    <th align="center">2. Chat with TestPilot</th>
-    <th align="center">3. QA Analysis Results</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="Input Details.png"
-           alt="Input details provided to TestPilot"
-           width="100%">
-      <p>Provide requirements, product context, environment details, and other relevant information.</p>
-    </td>
-    <td align="center">
-      <img src="Chat with TestPilot.png"
-           alt="Conversation with TestPilot"
-           width="100%">
-      <p>Interact with the agent to analyze requirements and discuss testing needs.</p>
-    </td>
-    <td align="center">
-      <img src="QA Analysis Results.png"
-           alt="TestPilot generated QA analysis"
-           width="100%">
-      <p>Review the generated requirement analysis, risks, test scenarios, and recommendations.</p>
-    </td>
-  </tr>
-</table>
+## Screenshots
+
+The following screenshots demonstrate the TestPilot workflow, from providing input details to receiving QA analysis results.
+
+<div align="center">
+
+### 1. Input Details
+
+<img src="Input Details.png" alt="Input details provided to TestPilot" width="85%">
+
+<p>Provide requirements, product context, environment details, and other relevant information.</p>
+
+---
+
+### 2. Chat with TestPilot
+
+<img src="Chat with TestPilot.png" alt="Conversation with TestPilot" width="85%">
+
+<p>Interact with the agent to analyze requirements and discuss testing needs.</p>
+
+---
+
+### 3. QA Analysis Results
+
+<img src="QA Analysis Results.png" alt="TestPilot generated QA analysis" width="85%">
+
+<p>Review the generated requirement analysis, risks, test scenarios, and recommendations.</p>
+
+</div>
 
 ## Platform and Implementation
 
