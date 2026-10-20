@@ -151,30 +151,15 @@ input details to interacting with the agent and receiving QA analysis results.
 
 The following screenshots demonstrate the TestPilot workflow, from providing input details to receiving QA analysis results.
 
-<div align="center">
+<div>
+  ### 1. Input Details
+  <img src="Input Details.png" alt="Input details provided to TestPilot" width="85%">
 
-### 1. Input Details
+  ### 2. Chat with TestPilot
+  <img src="Chat with TestPilot.png" alt="Conversation with TestPilot" width="85%">
 
-<img src="Input Details.png" alt="Input details provided to TestPilot" width="85%">
-
-<p>Provide requirements, product context, environment details, and other relevant information.</p>
-
----
-
-### 2. Chat with TestPilot
-
-<img src="Chat with TestPilot.png" alt="Conversation with TestPilot" width="85%">
-
-<p>Interact with the agent to analyze requirements and discuss testing needs.</p>
-
----
-
-### 3. QA Analysis Results
-
-<img src="QA Analysis Results.png" alt="TestPilot generated QA analysis" width="85%">
-
-<p>Review the generated requirement analysis, risks, test scenarios, and recommendations.</p>
-
+  ### 3. QA Analysis Results
+  <img src="QA Analysis Results.png" alt="TestPilot generated QA analysis" width="85%">
 </div>
 
 ## Platform and Implementation
